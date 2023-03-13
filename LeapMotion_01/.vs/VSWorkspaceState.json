@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\inputsimulator-master",
+    "\\Assets\\inputsimulator-master\\WindowsInput.Tests",
+    "\\Assets\\Plugins",
+    "\\Assets\\Plugins\\LeapMotion",
+    "\\Assets\\Plugins\\LeapMotion\\Core",
+    "\\Assets\\Plugins\\LeapMotion\\Core\\Scripts",
+    "\\Assets\\Plugins\\LeapMotion\\Core\\Scripts\\DetectionUtilities"
+  ],
+  "SelectedNode": "\\Assets\\inputsimulator-master\\WindowsInput.Tests\\InputBuilderTests.cs",
+  "PreviewInSolutionExplorer": false
+}
